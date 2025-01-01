@@ -6,11 +6,13 @@ A growing collection of high-quality, ready-to-use boilerplates for modern web d
 
 | Boilerplate | Description | Framework | Language |
 |---|---|---|---|
+| `express-api` | RESTful Express API with auth, routing, and logging | Express.js | JavaScript |
 
 ## 🛠 Structure
 ```
 mderic-boilerplates/
 ├── boilerplates.json    # Metadata about all boilerplates
+├── express-api/         # Express starter
 └── ...
 ```
 

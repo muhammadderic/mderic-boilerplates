@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "name": "express-api",
+    "framework": "Express.js",
+    "language": "JavaScript",
+    "description": "RESTful Express API with modular routing, JWT authentication, logging, and request validation.",
+    "path": "express-api",
+    "tags": [
+      "api",
+      "express",
+      "nodejs",
+      "rest"
+    ],
+    "version": "1.0.0",
+    "author": "muhammadderic",
+    "recommended": false
+  }
+]
