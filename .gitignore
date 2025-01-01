@@ -1,0 +1,8 @@
+MyNote.txt
+
+# Ignore all env files
+.env
+**/.env
+
+# express-api
+node_modules
